@@ -1,0 +1,8 @@
+# Never commit firewall exports or key material
+config*.xml
+*.xml
+*.key
+*.pem
+*.conf
+*.pcap
+.DS_Store
